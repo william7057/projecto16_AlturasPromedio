@@ -25,7 +25,7 @@ namespace projecto16_AlturasPromedio
                 }
                 else
                 {
-                    if (altura>=0 && altura<=1.9)
+                    if (altura>=0 && altura<=1.90)
                     {
                         suma = suma + altura;
                         x = x + 1;
